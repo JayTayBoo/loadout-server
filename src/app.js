@@ -15,8 +15,16 @@ app.use(helmet());
 app.use(cors());
 
 // Routes
-app.get("/", (req, res) => {
-  res.send("Hello, world!");
+app.get("/loadout", (req, res) => {
+  res.json({
+    primary: {primaryName: 'Kilo 141', primaryImg: 'ara.png', attachments: ['Tac Laser', 'Operator Reflex Sight', 'No Stock', '60 Round Mags', 'Fast Melee']},
+    secondary: {secondaryName: 'X16', secondaryImg: 'handguna.png', attachments: ['Tac Laser', 'Operator Reflex Sight', 'Lightweight Trigger', '21 Round Mags', 'Fast Melee']},
+    perk1: {perk1Name: 'Double Time', perk1Img: 'perk1a.png'},
+    perk2: {perk2Name: 'Restock', perk2Img: 'perk2a.png'},
+    perk3: {perk3Name: 'Tune Up', perk3Img: 'perk3a.png'},
+    lethal: {lethalName: 'Claymore', lethalImg: 'lethala.png'},
+    tactical: {tacticalName: 'Flash Grenade', tacticalImg: 'tacticala.png'}
+  });
 });
 
 // Error Handler
