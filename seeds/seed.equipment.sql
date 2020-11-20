@@ -1,0 +1,1 @@
+\copy equipment FROM './mwequipment.csv' WITH DELIMITER ',' CSV HEADER;

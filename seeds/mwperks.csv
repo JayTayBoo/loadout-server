@@ -1,0 +1,19 @@
+id,perk_name,perk_type,unlock_rank,perk_id
+1,Double Time,perk1,1,perk1a
+2,EOD,perk1,1,perk1b
+3,Scavenger,perk1,18,perk1c
+4,Cold-Blooded,perk1,29,perk1d
+5,Kill Chain,perk1,34,perk1e
+6,Quick Fix,perk1,42,perk1f
+7,Restock,perk2,1,perk2a
+8,Hardline,perk2,1,perk2b
+9,Overkill,perk2,8,perk2c
+10,High Alert,perk2,11,perk2d
+11,Ghost,perk2,24,perk2e
+12,Pointman,perk2,49,perk2f
+13,Tune Up,perk3,1,perk3a
+14,Amped,perk3,1,perk3b
+15,Shrapnel,perk3,13,perk3c
+16,Battle Hardened,perk3,26,perk3d
+17,Spotter,perk3,38,perk3e
+18,Tracker,perk3,51,perk3f

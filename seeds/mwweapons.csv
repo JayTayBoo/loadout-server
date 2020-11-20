@@ -1,0 +1,59 @@
+id,weapon_name,weaopn_type,unlock_rank,is_primary,is_dlc,weapon_id
+1,Kilo 141,assault,1,TRUE,FALSE,ara
+2,FAL,assault,1,TRUE,FALSE,arb
+3,M4A1,assault,6,TRUE,FALSE,arc
+4,FR 5.56,assault,16,TRUE,FALSE,ard
+5,Oden,assault,28,TRUE,FALSE,are
+6,M13,assault,39,TRUE,FALSE,arf
+7,FN Scar 17,assault,47,TRUE,FALSE,arg
+8,AK-47,assault,53,TRUE,FALSE,arh
+9,RAM-7,assault,5,TRUE,TRUE,ari
+10,Grau 5.56,assault,5,TRUE,TRUE,arj
+11,CR-56 AMAX,assault,5,TRUE,TRUE,ark
+12,AN-94,assault,5,TRUE,TRUE,arl
+13,AS VAL,assault,5,TRUE,TRUE,arm
+14,AUG,smg,1,TRUE,FALSE,smga
+15,P90,smg,1,TRUE,FALSE,smgb
+16,MP5,smg,12,TRUE,FALSE,smgc
+17,Uzi,smg,34,TRUE,FALSE,smgd
+18,PP19 Bizon,smg,42,TRUE,FALSE,smge
+19,MP7,smg,54,TRUE,FALSE,smgf
+20,Striker 45,smg,5,TRUE,TRUE,smgg
+21,Fennec,smg,5,TRUE,TRUE,smgh
+22,ISO,smg,5,TRUE,TRUE,smgi
+23,Model 680,shotgun,1,TRUE,FALSE,shotguna
+24,R9-0,shotgun,1,TRUE,FALSE,shotgunb
+25,725,shotgun,17,TRUE,FALSE,shotgunc
+26,Origin 12,shotgun,31,TRUE,FALSE,shotgund
+27,VLK Rogue,shotgun,5,TRUE,TRUE,shotgune
+28,JAK-12,shotgun,5,TRUE,TRUE,shotgunf
+29,PKM,lmg,1,TRUE,FALSE,lmga
+30,SA87,lmg,24,TRUE,FALSE,lmgb
+31,M91,lmg,25,TRUE,FALSE,lmgc
+32,MG34,lmg,49,TRUE,FALSE,lmgd
+33,Holger-26,lmg,5,TRUE,TRUE,lmge
+34,Bruen Mk9,lmg,5,TRUE,TRUE,lmgf
+35,FiNN,lmg,5,TRUE,TRUE,lmgg
+36,EBR-14,marksman,1,TRUE,FALSE,marksmana
+37,Mk2 Carbine,marksman,15,TRUE,FALSE,marksmanb
+38,Kar98k,marksman,33,TRUE,FALSE,marksmanc
+39,SKS,marksman,5,TRUE,TRUE,marksmane
+40,SP-R 208,marksman,5,TRUE,TRUE,marksmanf
+41,Dragunov,sniper,1,TRUE,FALSE,snipera
+42,HDR,sniper,11,TRUE,FALSE,sniperb
+43,AX-50,sniper,37,TRUE,FALSE,sniperc
+44,Rytec AMR,sniper,5,TRUE,TRUE,sniperd
+45,Riot Shield,primary_melee,22,TRUE,FALSE,primary_meleea
+46,X16,handgun,1,FALSE,FALSE,handguna
+47,1911,handgun,1,FALSE,FALSE,handgunb
+48,357 Revolver,handgun,21,FALSE,FALSE,handgunc
+49,M19,handgun,37,FALSE,FALSE,handgund
+50,.50 GS,handgun,52,FALSE,FALSE,handgune
+51,Renetti,handgun,5,FALSE,TRUE,handgunf
+52,PILA,launcher,1,FALSE,FALSE,launchera
+53,Strela-P,launcher,17,FALSE,FALSE,launcherb
+54,JOKR,launcher,35,FALSE,FALSE,launcherc
+55,RPG-7,launcher,44,FALSE,FALSE,launcherd
+56,Combat Knife,melee,22,FALSE,FALSE,meleea
+57,Kali Sticks,melee,5,FALSE,TRUE,meleeb
+58,Dual Kodachis,melee,5,FALSE,TRUE,meleec

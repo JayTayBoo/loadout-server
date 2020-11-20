@@ -1,0 +1,17 @@
+id,equipment_name,equipment_type,unlock_rank,equipment_id
+1,Claymore,lethal,1,lethala
+2,Frag Grenade,lethal,1,lethalb
+3,Molotov Cocktail,lethal,7,lethalc
+4,C4,lethal,25,lethald
+5,Semtex,lethal,32,lethale
+6,Throwing Knife,lethal,40,lethalf
+7,Proximity Mine,lethal,43,lethalg
+8,Thermite,lethal,54,lethalh
+9,Flash Grenade,tactical,1,tacticala
+10,Stun Grenade,tactical,1,tacticalb
+11,Smoke Grenade,tactical,14,tacticalc
+12,Snapshot Grenade,tactical,20,tacticald
+13,Heartbeat Sensor,tactical,30,tacticale
+14,Stim,tactical,38,tacticalf
+15,Decoy Grenade,tactical,57,tacticalg
+16,Gas Grenade,tactical,50,tacticalh

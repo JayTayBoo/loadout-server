@@ -1,0 +1,1 @@
+\copy perks FROM './mwperks.csv' WITH DELIMITER ',' CSV HEADER;

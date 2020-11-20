@@ -1,0 +1,1 @@
+\copy compatibility FROM './mwcompatibility.csv' WITH DELIMITER ',' CSV HEADER;

@@ -1,0 +1,1 @@
+\copy attachments FROM './mwattachments.csv' WITH DELIMITER ',' CSV HEADER;

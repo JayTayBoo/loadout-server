@@ -1,0 +1,440 @@
+attachment_name,attachment_id,attachment_type
+Flash Guard,muzzle_flash,muzzle
+Breacher Device,muzzle_breach,muzzle
+Muzzle Brake,muzzle_brake,muzzle
+Compensator,muzzle_comp,muzzle
+Lightweight Suppressor,muzzle_light,muzzle
+Tactical Suppressor,muzzle_tac,muzzle
+Monolithic Suppressor,muzzle_mono,muzzle
+Forge Tac Marauder,muzzle_bigmono,muzzle
+Oil Can Suppressor,muzzle_oil,muzzle
+Bayonet,muzzle_stabby,muzzle
+Colossus Suppressor,muzzle_thiccc,muzzle
+AN-94 Sonic Brake,muzzle_hedgehog,muzzle
+ZLR Sabre,muzzle_longboi,muzzle
+XRK Tank Brake,muzzle_tank,muzzle
+Rytec AMR Suppressor,muzzle_amrsup,muzzle
+Desperado Pro Compensator,muzzle_despacito,muzzle
+Singuard Arms 16.6 SOCOM,barrel_sinsocom,barrel
+Singuard Arms 19.8 Prowler,barrel_sinprowler,barrel
+Singuard Arms Whisper,barrel_sinwhisper,barrel
+18.0 Ultralight,barrel_18light,barrel
+XRK Marksman,barrel_xrkmarksman,barrel
+13.0 OSW Para,barrel_13para,barrel
+FSS 11.5 Commando,barrel_11commando,barrel
+Stock M16 Grenadier,barrel_grenadier,barrel
+FSS 14.5 Tac Lite,barrel_14tac,barrel
+Corvus Custom Marksman,barrel_corvusmark,barrel
+FSS 12.4 Predator,barrel_12predator,barrel
+FR 15.9 Commando,barrel_fr15.9,barrel
+FR 24.4 Sniper,barrel_fr24.4,barrel
+Forge Tac Ultralight,barrel_ultralight,barrel
+Oden Factory 810mm,barrel_factory810,barrel
+Oden Factory 730mm,barrel_factory730,barrel
+Oden Factory 420mm,barrel_factory420,barrel
+Tempus Mini,barrel_tempusmini,barrel
+Tempus Cyclone,barrel_tempuscyclone,barrel
+Tempus Marksman,barrel_tempusmarksman,barrel
+Forge Tac 17.2 LB,barrel_ft17.2,barrel
+Forge Tac 20 LB,barrel_ft20,barrel
+Forge Tac CQC Pro,barrel_ftcqcpro,barrel
+Spetsnaz Elite,barrel_spetsnaz,barrel
+23.0 RPK Barrel,barrel_23rpk,barrel
+8.1 Compact Barrel,barrel_8.1compact,barrel
+23.0 Romanian Barrel,barrel_23romanian,barrel
+FTAC 13.5 Compact,barrel_13.5compact,barrel
+Forge Tac Eclipse,barrel_eclipse,barrel
+FSS Ranger,barrel_ranger,barrel
+ZLR Drifter A-08,barrel_drifter,barrel
+Tempus 26.4 Archangel,barrel_archangel,barrel
+XRK CZEN Mk2,barrel_czen,barrel
+FSS 20.8 Nexus,barrel_nexus,barrel
+FSS 11.8 Squall,barrel_squall,barrel
+XRK Zodiac S440,barrel_zodiac,barrel
+FSS 8.3 Intruder,barrel_intruder,barrel
+AN-94 Factory 330mm,barrel_an330,barrel
+AN-94 Factory X-438mm,barrel_an438,barrel
+VLK AN-94 Sila,barrel_ansila,barrel
+VLK 105mm Sova,barrel_sova,barrel
+Stovl SOF,barrel_stovl,barrel
+VLK 200mm Osa,barrel_200osa,barrel
+407mm Extended Barrel,barrel_407extend,barrel
+407mm Lightweight Barrel,barrel_407light,barrel
+622mm Long Barrel,barrel_622long,barrel
+Forge Tac Retribution,barrel_retribution,barrel
+FSS 10.6 Pro,barrel_10.6pro,barrel
+FSS Light,barrel_fsslight,barrel
+Monolithic Integral Suppressor,barrel_monoint,barrel
+FSS Mini,barrel_fssmini,barrel
+Subsonic Integral Suppressor,barrel_subint,barrel
+13.1 First Responder,barrel_13.1first,barrel
+8.5 Factory Mini,barrel_8.5mini,barrel
+16.5 Factory Carbine,barrel_16.5carbine,barrel
+FSS Carbine Pro,barrel_fsscarbine,barrel
+8.7 Steel,barrel_8.7steel,barrel
+8.7 Polygonal,barrel_8.7poly,barrel
+8.7 Aluminum,barrel_8.7aluminum,barrel
+FSS Strike,barrel_strike,barrel
+FSS Recon,barrel_recon,barrel
+FSS SWAT,barrel_swat,barrel
+300mm Poly Barrel,barrel_300poly,barrel
+400mm Stainless Steel,barrel_400steel,barrel
+150mm Stainless Steel,barrel_150steel,barrel
+ZLR 16 Apex,barrel_16apex,barrel
+ZLR 18 Deadfall,barrel_18deadfall,barrel
+FTAC 225mm Dominator,barrel_dominator,barrel
+FSS Revolution,barrel_revolution,barrel
+ISO 140mm CQB,barrel_140cqb,barrel
+FSS Nightshade,barrel_nightshade,barrel
+XRK 18.0 Liberator,barrel_xrkliberator,barrel
+XRK 14.0 SWAT,barrel_xrkswat,barrel
+XRK 30.0 Sport,barrel_xrksport,barrel
+Forge Tac Sentry,barrel_sentry,barrel
+Forge Tac Gemini,barrel_gemini,barrel
+Tempus Smooth Bore,barrel_smooth,barrel
+Sawed Off Barrel,barrel_sawed,barrel
+Tempus 32 Competition,barrel_32comp,barrel
+Forge Tac Precision,barrel_precision,barrel
+Forge Tac Wideshot,barrel_wide,barrel
+Forge Tac Impaler,barrel_impaler,barrel
+VLK Czar,barrel_czar,barrel
+6 Revolt,barrel_revolt,barrel
+16 Warlord,barrel_warlord,barrel
+ZLR J-2800 Influx,barrel_influx,barrel
+JAK Urban King,barrel_king,barrel
+ZLR J-3600 Torrent,barrel_torrent,barrel
+18.2 Compact Barrel,barrel_18.2compact,barrel
+26.9 Extended Barrel,barrel_26.9ext,barrel
+25.9 Heavy Barrel,barrel_25.9heavy,barrel
+SA87 18.2 Factory,barrel_sa18.2,barrel
+SA87 25.4 Factory,barrel_sa25.4,barrel
+SA87 12.4 Factory,barrel_sa12.4,barrel
+M91 Special Forces,barrel_m91special,barrel
+M91 Infantry,barrel_m91infantry,barrel
+M91 Heavy,barrel_m91heavy,barrel
+FSS Brute,barrel_brute,barrel
+FSS Stubby,barrel_stubby,barrel
+FSS Elite,barrel_elite,barrel
+SRK Ultralight,barrel_xrklight,barrel
+FTAC 8.98 Spitfire,barrel_spitfire,barrel
+XRK Horizon 23.0,barrel_horizon,barrel
+XRK Summit 26.8,barrel_summit,barrel
+Bruen 18.0 Para,barrel_bruenpara,barrel
+Factory Adverse,barrel_factoryad,barrel
+XRK Pro Twist,barrel_twist,barrel
+XRK Pro Twist Adverse,barrel_twistad,barrel
+XRK LongShot Advantage,barrel_longshot,barrel
+XRK LongShot Adverse,barrel_longshotad,barrel
+XRK VC-8 Harrier,barrel_harrier,barrel
+XRK VC-8 Harrier Adverse,barrel_harrierad,barrel
+Forge Tac Precision 20.0,barrel_ebrprecision20,barrel
+Forge Tac Elite,barrel_ebrelite,barrel
+Forge Tac Precision 22.0,barrel_ebrprecision22,barrel
+FSS 18.0 Factory,barrel_mk218.0,barrel
+FSS 20.0 Factory,barrel_mk220.0,barrel
+FSS 24.0 Factory,barrel_mk224.0,barrel
+Singuard Arms 25.1,barrel_sin25.1,barrel
+Singuard Arms 21.2,barrel_sin21.2,barrel
+Singuard Arms 27.6,barrel_sin27.6,barrel
+FTAC Landmark,barrel_landmark,barrel
+16 FSS Para,barrel_16para,barrel
+22 FSS M59,barrel_m59,barrel
+ZLR VeraTwist 9.6,barrel_veratwist,barrel
+ZLR Asp,barrel_asp,barrel
+SP-R 26,barrel_spr26,barrel
+XRK 208 Dragoon,barrel_dragoon,barrel
+510mm Compact Barrel,barrel_510compact,barrel
+660mm Extended Barrel,barrel_660ext,barrel
+26.9 HDR Pro,barrel_26.9pro,barrel
+26.0 Bull Barrel,barrel_26.0bull,barrel
+17.2 Bull Barrel,barrel_17.2bull,barrel
+Singuard Arms Pro,barrel_sinpro,barrel
+17.0 Factory Barrel,barrel_17.0factory,barrel
+32.0 Factory Barrel,barrel_32.0factory,barrel
+FTAC Seven Straight,barrel_seven,barrel
+FTAC 448mm Dictator,barrel_dictator,barrel
+XRK Harbinger,barrel_harbinger,barrel
+Singuard Arms Featherweight,barrel_sinfeather,barrel
+Vanguard Elite,barrel_vanelite,barrel
+Singuard Arms Advantage,barrel_sinadvantage,barrel
+.45 Compact,barrel_45compact,barrel
+.45 Match Grade,barrel_45match,barrel
+1911 Stalker,barrel_1911stalker,barrel
+XRK L Super,barrel_lsuper,barrel
+XRK V Extended,barrel_vext,barrel
+A9-16 Lightweight,barrel_a9light,barrel
+Mk1 Competition,barrel_mk1comp,barrel
+Mk1 Extended,barrel_mk1ext,barrel
+Mk3 Burst Mod,barrel_mk3burst,barrel
+Forge Tac Extended,barrel_50ext,barrel
+Forge Tac Enforcer,barrel_50enforcer,barrel
+.357 Snub Nose,barrel_snub,barrel
+Silverfield Ordnance .357,barrel_ordnance,barrel
+.357 Long,barrel_357long,barrel
+1Mw Laser,laser_1mw,laser
+5Mw Laser,laser_5mw,laser
+Tac Laser,laser_tac,laser
+Operator Reflex Sight,optic_opreflex,optic
+Corp Combat Holo Sight,optic_corpholo,optic
+Aim-Op Reflex Sight,optic_aimop,optic
+GI Mini Reflex,optic_gi,optic
+Scout Combat Optic,optic_scout,optic
+APX5 Holographic Sight,optic_apx5,optic
+Cronen LP945 Mini Reflex,optic_cronenmini,optic
+4.0x Flip Hybrid,optic_flip4,optic
+VLK 3.0x Optic,optic_vlk,optic
+Integral Hybrid,optic_inthybrid,optic
+Viper Reflex Sight,optic_viper,optic
+Cronen C480 Pro Optic,optic_cronenpro,optic
+Solozero NVG Ehhanced,optic_solonvg,optic
+Monocle Reflex Sight,optic_mono,optic
+Sniper Scope,optic_sniper,optic
+Merc Thermal optic,optic_mercthermal,optic
+PBX Holo 7 Sight,optic_pbxholo,optic
+Thermal Hybrid,optic_thermalhybrid,optic
+Solozero optics Mini Reflex,optic_solomini,optic
+Canted Hybrid,optic_canted,optic
+Variable Zoom Scope,optic_variable,optic
+Cronen 2x2 Elite,optic_cronenelite,optic
+POS-M3 Thermal Scope,optic_m3thermal,optic
+Dragunov Scope,optic_dragunov,optic
+Integral 3.0x Optic,optic_int3,optic
+FSS Ring Sight,optic_ring,optic
+Brownlee 32mm Scope,optic_brownlee,optic
+FSS Integral Reflex,optic_intreflex,optic
+Solozero K498 4.0x Integral,optic_soloint,optic
+Solozero SP-R 28mm,optic_solosniper,optic
+Thermal Sniper Scope,optic_thermalsniper,optic
+Thermal Dual Power Scope,optic_thermaldual,optic
+VLK 2.5x Optic,optic_vlk2.5,optic
+XRK 4.0x Pistol Scope,optic_xrk4,optic
+Lockwood Pistol Scope,optic_lockwood,optic
+No Stock,stock_no,stock
+Skeleton Stock,stock_skele,stock
+FSS Tac Wrap,stock_tacwrap,stock
+FSS Blackjack,stock_blackjack,stock
+FSS Close Quarters,stock_close,stock
+Forge Tac CQS,stock_taccqs,stock
+Forge Tac Stalker,stock_stalker,stock
+Forge Tac Ballast Pack,stock_ballast,stock
+FTAC Forge Tac CQB Comb,stock_taccomb,stock
+Forge Tac Ultralight,stock_ultralight,stock
+FTAC Hunter,stock_hunter,stock
+FTAC Spartan,stock_spartan,stock
+FTAC Equilibrium,stock_equal,stock
+FTAC Collapsible,stock_collapse,stock
+FTAC XL Elite Comb,stock_elitecomb,stock
+FTAC Ultralight Hollow,stock_ultrahollow,stock
+Singuard Arms Invader,stock_invader,stock
+Singuard Arms Sniper Pro,stock_sinsniperpro,stock
+XRK Srtiker,stock_striker,stock
+XRK Gatekeeper,stock_gatekeeper,stock
+XRK Obelisk Pro,stock_obeliskpro,stock
+XRK Heavy Stock Pro,stock_heavypro,stock
+XRK StrikeLite III,stock_strikelite,stock
+XRK Close Quarters Stock,stock_xrkclose,stock
+XRK Ultralight Hollow,stock_xrkultralight,stock
+CR-56 EXO,stock_exo,stock
+M-16 Stock,stock_m16,stock
+Field LMG Stock,stock_lmg,stock
+Ultralight Hollow,stock_hollow,stock
+Factory 18 Aluminum,stock_factory18,stock
+VLK Vintazh,stock_vintazh,stock
+FSS Intl Gen 4 GRU,stock_gru,stock
+Stovl 6P30 Skelet,stock_skelet,stock
+VLK Strelok,stock_strelok,stock
+Fly Strap,stock_fly,stock
+Classic Straight Line Stock,stock_classic,stock
+Standard Issue Wood Stock,stock_wood,stock
+Factory Aluminum Stock,stock_factoryalum,stock
+Corvus Skeleton Stock,stock_corvusskele,stock
+FSS Guardian,stock_guardian,stock
+FTAC Precision Fixed Stock,stock_precision,stock
+XRK Gen III Survivalist Series,stock_survive,stock
+FTAC C6 Carbine Pro,stock_c6carbine,stock
+ZLR Blade,stock_blade,stock
+FTAC Vagrant,stock_vagrant,stock
+ISO Collapsible,stock_iso,stock
+Lockwood Precision Series,stock_lockwood,stock
+FFS R9-0 Bulldog Pump,stock_bulldogpump,stock
+FTAC Ultralight Pump,stock_lightpump,stock
+FTAC Close Quarters Pro Pump,stock_cqbpump,stock
+Cronen Equalibrium,stock_cronenequal,stock
+Cronen Pro Light,stock_cronenlight,stock
+Sawed Off Stock,stock_sawed,stock
+Tempus Sport,stock_sport,stock
+Forge Tac Dart,stock_dart,stock
+ZLR Tsunami,stock_tsunami,stock
+JAK Rabbit Ultralight,stock_rabbit,stock
+FSS Power Wrap,stock_power,stock
+SA87 Ultralight Hollow,stock_salight,stock
+Forge Tac CQB Comb,stock_saheavy,stock
+FSS Ranger,stock_ranger,stock
+FSS Infantry,stock_infantry,stock
+XRK Axis,stock_axis,stock
+XRK Citadel,stock_citadel,stock
+XRK M309 Forward Assault,stock_forward,stock
+XRK ChainSAW,stock_chainsaw,stock
+FTAC Precision Comb,stock_presicioncomb,stock
+FSS Raider Chassis Pro,stock_raiderpro,stock
+FTAC Lightweight Stock,stock_ftaclight,stock
+FSS Raider Chassis Elite,stock_raiderelite,stock
+Cartridge Sleeve,stock_sleeve,stock
+FSS MK2 Sport Comb,stock_mk2sport,stock
+FSS MK2 Precision Comb,stock_mk2precision,stock
+MK2 Ultralight Hollow,stock_mk2light,stock
+STVOL Precision Comb,stock_kar9precision,stock
+Hollow Stock Mod,stock_kar9hollow,stock
+FTAC Sport Comb,stock_kar9sport,stock
+SKS Rifle Stock,stock_sksrifle,stock
+XRK SP-Tac 208 Ultimate,stock_tacultimate,stock
+FSS Virtuoso Pro,stock_virtuoso,stock
+XRK SP-Lite 208 Blitz,stock_blitz,stock
+ZLR SP-R Overseer,stock_overseer,stock
+FTAC Hunter-Scout,stock_hunterscout,stock
+FTAC Stalker-Scout,stock_stalkerscout,stock
+VLK Lightweight Stock,stock_vlklight,stock
+FSS Nomad Stock,stock_nomad,stock
+FTAC Champion,stock_champion,stock
+Singuard Arms Marksman,stock_sinmarksman,stock
+Singuard Arms Evader,stock_sinevader,stock
+Singuard Arms Assassin,stock_sinassassin,stock
+XRK Mastadon,stock_mastadon,stock
+FTAC Trekker,stock_trekker,stock
+STVOL Tac Wrap,stock_stvoltac,stock
+FTAC Satus CS-3,stock_cs3,stock
+FTAC G-X,stock_gx,stock
+FTAC Satus CS-X,stock_csx,stock
+Commando Foregrip,under_commando,underbarrel
+Operator Foregrip,under_op,underbarrel
+Merc Foregrip,under_merc,underbarrel
+Ranger Foregrip,under_ranger,underbarrel
+Tactical Foregrip,under_tac,underbarrel
+Bipod,under_bipod,underbarrel
+M203 40mm Incendiary,under_fire,underbarrel
+M203 40mm Smokescreen,under_smoke,underbarrel
+M203 40mm High Explosive,under_explosive,underbarrel
+M203 40mm Flash,under_flash,underbarrel
+M203 40mm Concussive,under_concussive,underbarrel
+M203 40mm Recon,under_recon,underbarrel
+12 Gauge Deputy,under_12gauge,underbarrel
+Bipod Foregrip,under_bipodgrip,underbarrel
+GP25 40mm Incendiary,under_gpfire,underbarrel
+GP25 40mm Smokescreen,under_gpsmoke,underbarrel
+GP25 40mm High Explosive,under_gpexplosive,underbarrel
+GP25 40mm Flash,under_gpflash,underbarrel
+GP25 40mm Concussive,under_gpconcussive,underbarrel
+GP25 40mm Recon,under_gprecon,underbarrel
+Cronen Shark II,under_shark,underbarrel
+Granulated Grip Tape,under_granu,underbarrel
+Rubberized Grip Tape,under_rubber,underbarrel
+Stippled Grip Tape,under_stip,underbarrel
+Lockwood Precision Series,under_lockwood,underbarrel
+XRK Truegrip Tactical,under_truegrip,underbarrel
+XRK Race Grip,under_race,underbarrel
+VLK Prime Pump Grip,under_prime,underbarrel
+XRK ReliaGrip,under_relia,underbarrel
+Snatch Grip,under_snatch,underbarrel
+Lightweight Trigger,under_lighttrigger,underbarrel
+Heavy Duty Trigger,under_heavytrigger,underbarrel
+Match Grade Trigger,under_matchtrigger,underbarrel
+4 Round Mags,ammo_4,ammunition
+7 Round Mags,ammo_7,ammunition
+9 Round Mags,ammo_9,ammunition
+10 Round Mags,ammo_10,ammunition
+12 Round Mags,ammo_12,ammunition
+13 Round Mags,ammo_13,ammunition
+15 Round Mags,ammo_15,ammunition
+17 Round Mags,ammo_17,ammunition
+20 Round Mags,ammo_20,ammunition
+21 Round Mags,ammo_21,ammunition
+24 Round Mags,ammo_24,ammunition
+25 Round Mags,ammo_25,ammunition
+26 Round Mags,ammo_26,ammunition
+27 Round Mags,ammo_27,ammunition
+30 Round Mags,ammo_30,ammunition
+32 Round Mags,ammo_32,ammunition
+40 Round Mags,ammo_40,ammunition
+45 Round Mags,ammo_45,ammunition
+50 Round Mags,ammo_50,ammunition
+60 Round Mags,ammo_60,ammunition
+75 Round Drum Mags,ammo_75drum,ammunition
+100 Round Drum Mags,ammo_100drum,ammunition
+75 Round Belt,ammo_75belt,ammunition
+100 Round Belt,ammo_100belt,ammunition
+120 Round Belt,ammo_120belt,ammunition
+150 Round Belt,ammo_150belt,ammunition
+200 Round Belt,ammo_200belt,ammunition
+M67 10-R Mags,ammo_10r,ammunition
+SPP 10-R Mags,ammo_spp10,ammunition
+5.56 NATO 30 Round Mags,ammo_nato30,ammunition
+5.56 NATO 60 Round Mags,ammo_nato60drum,ammunition
+9mm Para 32 Round Mags,ammo_9mm32,ammunition
+5.45x39mm 30 Round Mags,ammo_30ak,ammunition
+.458 SOCOM 10 Round Mags,ammo_socom10,ammunition
+.300 Blackout 30 Round Mags,ammo_300black,ammunition
+10mm Auto 30 Round Mags,ammo_10mm30,ammunition
+.41 AE 32 Round Mags,ammo_ae32,ammunition
+84 Round Helical Mags,ammo_84,ammunition
+.45 Hollow Point 12-R Mags,ammo_45hollow,ammunition
+40 Round Drum Mags,ammo_40drum,ammunition
+50 Round Drums,ammo_50drum,ammunition
+Tube Extension,ammo_tubeext,ammunition
+12 Gauge 6-R Mags,ammo_6r,ammunition
+Slug Rounds,ammo_slug,ammunition
+Slug 6-R Mags,ammo_slug6r,ammunition
+8 Round Slug Mags,ammo_slug8r,ammunition
+Dragons Breath Rounds,ammo_fire,ammunition
+Dragons Breath 6-R Mags,ammo_fire6r,ammunition
+Dragons Breath 8-R Mags,ammo_fire8r,ammunition
+FRAG SLUG 8-R Mags,ammo_frag8r,ammunition
+20 Round Drum Mags,ammo_20drum,ammunition
+25 Round Drum Mags,ammo_25drum,ammunition
+32 Round Drum Mags,ammo_32drum,ammunition
+5.56 NATO 100 Round Belt,ammo_100natobelt,ammunition
+5.56 CT 75 Round Belt,ammo_75ctbelt,ammunition
+5.56 CT 100 Round Belt,ammo_100ctbelt,ammunition
+.300 Norma 5-R Mags,ammo_norma,ammunition
+.338 Lapua 5-R Mags,ammo_lapua,ammunition
+25x59mm Explosive 5-R Mags,ammo_explosive,ammunition
+25x59mm Thermite 5-R Mags,ammo_thermite,ammunition
+Snake Shot,ammo_snake,ammunition
+Granulated Grip Tape,grip_granu,grip
+Rubberized Grip Tape,grip_rubber,grip
+Stippled Grip Tape,grip_stip,grip
+XRK Void II,grip_void,grip
+Cronen Sniper Elite,grip_sniper,grip
+FTAC R-89 Rubber,grip_r89,grip
+XRK CR-56 Granulated Wrap,grip_crgranu,grip
+XRK CR-56 Stippled Wrap,grip_crstip,grip
+XRK CR-56 Rubberized Wrap,grip_crrubber,grip
+FTAC 60 Series Rubber,grip_ftacrubber,grip
+FTAC G-5 EXO,grip_ftacexo,grip
+FTAC 60 Series Polymer,grip_ftacpoly,grip
+FSS Vice ISO Grip,grip_fssiso,grip
+FTAC Elite ISO Grip,grip_ftaciso,grip
+ISO Tac Form,grip_iso,grip
+Tempus Slimgrip,grip_slimgrip,grip
+Forge Tac Steady Grip,grip_steady,grip
+Forge Tac Commander,grip_commander,grip
+Sloan KR-800 DeadEye,grip_deadeye,grip
+Sloan KR-600 Feather,grip_feather,grip
+X16 Stock,grip_x16,grip
+XRK Speed Grip,grip_xrkspeed,grip
+XRK Pro Grip,grip_xrkpro,grip
+Lockwood .357 Custom Stock,grip_357custom,grip
+FSS Raider Stock,grip_357raider,grip
+FMJ,perk_fmj,perk
+Heavy Hitter,perk_heavy,perk
+Recon,perk_recon,perk
+Frangible - Wounding,perk_wound,perk
+Mo Money,perk_money,perk
+Fully Loaded,perk_loaded,perk
+Sleight of Hand,perk_sleight,perk
+Fast Melee,perk_fastmelee,perk
+Burst,perk_burst,perk
+Frangible - Disabling,perk_disable,perk
+Presence of Mind,perk_presence,perk
+Burst Fire x2,perk_burst2,perk
+Focus,perk_focus,perk
+Akimbo,perk_akimbo,perk

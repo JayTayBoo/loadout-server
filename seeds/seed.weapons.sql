@@ -1,0 +1,1 @@
+\copy weapons FROM './mwweapons.csv' WITH DELIMITER ',' CSV HEADER;
