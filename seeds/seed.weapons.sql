@@ -1,1 +1,1 @@
-\copy weapons FROM './mwweapons.csv' WITH DELIMITER ',' CSV HEADER;
+\copy weapons FROM './seeds/mwweapons.csv' WITH DELIMITER ',' CSV HEADER;

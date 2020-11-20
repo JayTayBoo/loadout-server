@@ -1,1 +1,1 @@
-\copy perks FROM './mwperks.csv' WITH DELIMITER ',' CSV HEADER;
+\copy perks FROM './seeds/mwperks.csv' WITH DELIMITER ',' CSV HEADER;

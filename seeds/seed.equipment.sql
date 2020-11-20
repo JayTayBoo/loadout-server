@@ -1,1 +1,1 @@
-\copy equipment FROM './mwequipment.csv' WITH DELIMITER ',' CSV HEADER;
+\copy equipment FROM './seeds/mwequipment.csv' WITH DELIMITER ',' CSV HEADER;

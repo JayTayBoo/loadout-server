@@ -1,1 +1,1 @@
-\copy compatibility FROM './mwcompatibility.csv' WITH DELIMITER ',' CSV HEADER;
+\copy compatibility FROM './seeds/mwcompatibility.csv' WITH DELIMITER ',' CSV HEADER;

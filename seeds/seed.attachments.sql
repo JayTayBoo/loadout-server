@@ -1,1 +1,1 @@
-\copy attachments FROM './mwattachments.csv' WITH DELIMITER ',' CSV HEADER;
+\copy attachments FROM './seeds/mwattachments.csv' WITH DELIMITER ',' CSV HEADER;
