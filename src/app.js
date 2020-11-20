@@ -15,6 +15,8 @@ app.use(morgan(morganOption));
 app.use(helmet());
 app.use(cors());
 
+
+// This function takes an array of attachment_ids and returns an array of attachment_names
 async function getAttachNames(filteredAttach){
   let attachNames=[]
 
@@ -35,11 +37,13 @@ async function getAttachNames(filteredAttach){
   return attachNames
 }
 
-// This function filters through the results from getAttach
+// This function filters through an array of attachment_ids, passes to getAttachNames()
 function filterAttach(attach){
   let filteredAttach;
+
   // This filters out null values
   filteredAttach = attach.filter((obj) => obj );
+
   // This removes random attachments until there are 5 left
   for (i=filteredAttach.length; i > 5; i--){
     filteredAttach.splice(Math.floor(Math.random() * (filteredAttach.length)), 1)
@@ -47,13 +51,16 @@ function filterAttach(attach){
   return getAttachNames(filteredAttach)
 }
 
-// This function gets one random attachment of every type
+// This function gets an attachment_id for each category and stores in an array, passes to filterAttach()
 function getAttach(attachments){
   let attach = [];
+
   // Returns "No attachments" if there is not a result
   if (!attachments){
     return (["No Attachments!"])
   }
+
+  // Grabs one random attachment of every type
   else {
     attach.push(attachments.compatible_muzzle[Math.floor(Math.random() * (attachments.compatible_muzzle.length))])
     attach.push(attachments.compatible_barrel[Math.floor(Math.random() * (attachments.compatible_barrel.length))])
